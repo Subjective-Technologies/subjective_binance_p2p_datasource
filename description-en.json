@@ -1,4 +1,5 @@
 {
+  "description": "Fetches Binance P2P offers with filters (fiat, asset, side, payment methods, amount) and emits normalized opportunity datasets.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Binance P2 P",
-      "text": "Subjective datasource implementation for SubjectiveBinanceP2PDataSource.",
+      "text": "Fetches Binance P2P offers with filters (fiat, asset, side, payment methods, amount) and emits normalized opportunity datasets.",
       "image": {
         "src": "/subjective_binance_p2p_datasource/icon.svg",
         "alt": "Binance P2 P icon"
